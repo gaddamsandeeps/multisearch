@@ -1,0 +1,10 @@
+-var parent = JSON.parse(json)
+ #nav
+  ul#global-list
+   -for(var engine in parent)
+    li
+     a(href='#') #{engine}
+     ul#sub-menu
+       -for(var search in parent[engine])
+         li(id='#{engine}-#{search}')
+           a(href='#') #{search}

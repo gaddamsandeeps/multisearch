@@ -1,0 +1,28 @@
+{
+  "Google": {
+    "Web": "https://www.google.co.in/search?q=",
+    "Images": "https://www.google.co.in/search?tbm=isch&q=",
+    "Youtube": "https://www.youtube.com/results?q="
+  },
+  "Yahoo": {
+    "Web": "http://search.yahoo.com/search?p=",
+    "Images": "http://images.search.yahoo.com/search/images;_ylt=A0SO8xbZk8JSPCUA7WBXNyoA?p=",
+    "Videos": "http://video.search.yahoo.com/search/video;_ylt=A0SO8xYIlMJSYFsAwmdXNyoA?p="
+  },
+  "Bing": {
+    "Web(DONTUSE)": "http://www.bing.com/search?pc=MOZI&form=MOZSBR&q=",
+    "Images": "http://www.bing.com/images/search?q=",
+    "Videos": "http://www.bing.com/videos/search?q="
+  },
+  "Amazon": {
+    "Web": "http://www.amazon.com/s?ie=UTF8&field-keywords="
+  },
+  "Ask": {
+    "Web": "http://www.search.ask.com/web?l=dis&q=",
+    "Images": "http://www.search.ask.com/pictures?q=",
+    "Videos": "http://www.search.ask.com/videos?q="
+  },
+  "Wikipedia": {
+    "Search": "http://en.wikipedia.org/wiki/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "MultiSearch",
+  "homepage": "http://multisearch.github.io/",
+  "description": "Multi Search functionality from a single search.",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+
+  "author": {
+    "name": "Sandeep G",
+    "email": "gaddamsandeeps@gmail.com",
+    "url": ""
+  },
+  "bin": {
+    "multisearch": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/multisearch/multisearch.github.io"
+  },
+  "main": "./multisearch",
+
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "request": "*",
+    "google": "*"
+  }
+}
